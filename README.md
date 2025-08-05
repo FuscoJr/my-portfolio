@@ -8,10 +8,10 @@ Mein persönliches Portfolio während der Umschulung zum Fachinformatiker – An
 📚 Aktuell lerne ich: Python, Java, SQL, Git, Netzwerktechnik.  
 
 ## 📂 Projekte (Work in Progress)
-- [ ] Python Grundlagenprojekte
-- [ ] Java Mini-Anwendungen
-- [ ] SQL Datenbankübungen
-- [ ] Game Development mit Unity/Unreal
+- [ ] Python Grundlagenprojekte(#)
+- [ ] Java Mini-Anwendungen(#)
+- [ ] SQL Datenbankübungen(#)
+- [ ] Game Development mit Unity/Unreal(#)
 
 ---
 
